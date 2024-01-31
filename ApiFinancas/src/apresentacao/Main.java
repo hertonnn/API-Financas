@@ -5,7 +5,7 @@ import apresentacao.telas.Principal;
 import apresentacao.telas.Login;
 import negocio.Sistema;
 
-public class Teste {
+public class Main {
     public static void main(String[] args) {
 
         Sistema sistema = Sistema.getInstance();
