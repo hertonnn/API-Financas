@@ -107,7 +107,7 @@ public class Historico extends JPanel{
         //Botões e derivados
         salvar = new JButtonCustom();
         editar = new JButtonCustom("src/recursos/images/historico/img_editar.png", TAMICONES*2, TAMICONES*2);
-        perfil = new JButtonCustom("src/recursos/images/historico/img_perfil2.png", TAMALTURA/5, TAMALTURA/5);
+        perfil = new JButtonCustom("src/recursos/images/dashboard/fotoUser.png", TAMALTURA/5, TAMALTURA/5);
         olho = new JButtonCustom("src/recursos/images/historico/img_olho.png", 26, 18);
         lixeira_registros = new JButtonCustom("src/recursos/images/historico/img_lixeira.png", TAMICONES, TAMICONES);
         lixeira_orcamentos = new JButtonCustom("src/recursos/images/historico/img_lixeira.png", TAMICONES, TAMICONES);

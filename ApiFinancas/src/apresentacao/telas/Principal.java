@@ -88,7 +88,7 @@ public class Principal extends JFrame {
     String ciano = "#AEBFD4"; 
     String branco = "#FFFFFF";
     String cinza = "#D9D9D9";
-    String caminhoImg = "src/recursos/images/dashboard/img_perfil.png";
+    String caminhoImg = "src/recursos/images/dashboard/fotoUser.png";
     Font quickSand=null;
     Locale localBrasil = new Locale("pt", "BR");
 
