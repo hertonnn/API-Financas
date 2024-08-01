@@ -1,3 +1,3 @@
-# Desenvolvendo um aplicação desktop de controle de Finanças Pessoais em Java, com Java Swing e PostgreSQL.
+# Desenvolvendo uma aplicação desktop de controle de Finanças Pessoais em Java, com Java Swing e PostgreSQL.
 
 <img src="https://github.com/hertonnn/API-Financas/blob/main/teste.png" alt="">
