@@ -1,6 +1,6 @@
 # Desenvolvendo uma aplicação desktop de controle de Finanças Pessoais em Java, com Java Swing e PostgreSQL.
 
-<img src="https://github.com/hertonnn/API-Financas/blob/main/teste.png" alt="">
+<img src="https://github.com/hertonnn/API-Financas/blob/main/capa.png" alt="">
 
 ## Sobre o projeto
 
@@ -12,3 +12,5 @@ Neste post, detalharei as etapas do projeto, do backend ao frontend, com o tema 
 - Possibilite que o usuário gerencie e monitore suas transações financeiras por meio de históricos de registros em suas próprias categorias pré-definidas.
 - Ofereça uma interface intuitiva e de fácil uso, incorporando elementos de experiência do usuário (UX).
 - Possua sistema de login e cadastro.
+
+ ### Mais informações detalhadas sobre o projeto estão no arquivos post.odt nesse repositório.
