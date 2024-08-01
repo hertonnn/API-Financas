@@ -13,4 +13,4 @@ Neste post, detalharei as etapas do projeto, do backend ao frontend, com o tema 
 - Ofereça uma interface intuitiva e de fácil uso, incorporando elementos de experiência do usuário (UX).
 - Possua sistema de login e cadastro.
 
- ### Mais informações detalhadas sobre o projeto estão no arquivos post.odt nesse repositório.
+ ### Mais informações detalhadas sobre o projeto estão no arquivo post.odt nesse repositório.
