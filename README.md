@@ -1,3 +1,3 @@
 # Desenvolvendo um aplicação desktop de controle de Finanças Pessoais em Java, com Java Swing e PostgreSQL.
 
-<img src="[https://exemplo.com/logo.png](https://github.com/hertonnn/API-Financas/teste.png" alt="">
+<img src="https://github.com/hertonnn/API-Financas/teste.png" alt="">
